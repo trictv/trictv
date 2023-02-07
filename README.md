@@ -32,3 +32,5 @@
 <p align="justify">Gestão da Tecnologia da Informação. 
 🧑‍💼 Desenvolvedor de Sistemas Junior
 </p>
+
+  
